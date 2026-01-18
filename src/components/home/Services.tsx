@@ -68,7 +68,7 @@ export function Services() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="mb-4">Our Services</h2>
-            <p className="text-xl max-w-2xl mx-auto">
+            <p className="text-xl max-w-2xl mx-auto text-center">
               Comprehensive software solutions tailored to your business needs
             </p>
           </motion.div>

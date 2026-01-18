@@ -135,7 +135,7 @@ export function Portfolio() {
             className="max-w-4xl mx-auto text-center"
           >
             <h1 className="mb-6">Our Portfolio</h1>
-            <p className="text-xl">
+            <p className="text-xl text-center">
               Discover how we've helped businesses transform their ideas into successful digital products. Each project represents our commitment to excellence and innovation.
             </p>
           </motion.div>

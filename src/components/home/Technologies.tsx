@@ -40,7 +40,7 @@ export function Technologies() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="mb-4">Technologies We Master</h2>
-            <p className="text-xl max-w-2xl mx-auto">
+            <p className="text-xl max-w-2xl mx-auto text-center">
               Leveraging cutting-edge technologies to build future-proof solutions
             </p>
           </motion.div>

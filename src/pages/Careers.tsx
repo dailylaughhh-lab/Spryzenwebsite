@@ -87,7 +87,7 @@ export function Careers() {
             className="max-w-4xl mx-auto text-center"
           >
             <h1 className="mb-6">Join Our Team</h1>
-            <p className="text-xl">
+            <p className="text-xl text-center">
               Be part of a team that's shaping the future of software development. We're always looking for talented individuals who share our passion for innovation.
             </p>
           </motion.div>

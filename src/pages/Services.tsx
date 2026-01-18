@@ -141,7 +141,7 @@ export function Services() {
             className="max-w-4xl mx-auto text-center"
           >
             <h1 className="mb-6">Our Services</h1>
-            <p className="text-xl">
+            <p className="text-xl text-center">
               Comprehensive software development solutions tailored to your business needs. From mobile apps to AI-powered platforms, we deliver excellence in every project.
             </p>
           </motion.div>

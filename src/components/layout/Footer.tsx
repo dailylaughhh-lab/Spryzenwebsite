@@ -31,11 +31,13 @@ export function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <Link to="/" className="inline-block mb-6">
-              <img 
-                src={logo} 
-                alt="Spryzen Technologies" 
-                className="h-10 w-auto"
-              />
+              <div className="bg-white rounded-lg p-2 inline-block">
+                <img 
+                  src={logo} 
+                  alt="Spryzen Technologies" 
+                  className="h-8 w-auto"
+                />
+              </div>
             </Link>
             <p className="text-gray-400 mb-6 max-w-md leading-relaxed">
               Building scalable digital products for modern businesses. We transform ideas into powerful software solutions.

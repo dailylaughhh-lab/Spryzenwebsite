@@ -41,7 +41,7 @@ export function PortfolioPreview() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="mb-4">Featured Projects</h2>
-            <p className="text-xl max-w-2xl mx-auto">
+            <p className="text-xl max-w-2xl mx-auto text-center">
               Real-world solutions that drive measurable business results
             </p>
           </motion.div>

@@ -46,7 +46,7 @@ export function WhyChooseUs() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="mb-4">Why Choose Spryzen Technologies</h2>
-            <p className="text-xl max-w-2xl mx-auto">
+            <p className="text-xl max-w-2xl mx-auto text-center">
               Partner with a team that's committed to transforming your vision into reality
             </p>
           </motion.div>

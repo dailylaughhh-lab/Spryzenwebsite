@@ -41,11 +41,13 @@ export function Header() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center group">
-            <img 
-              src={logo} 
-              alt="Spryzen Technologies" 
-              className="h-12 w-auto transition-transform duration-200 group-hover:scale-105"
-            />
+            <div className="bg-white rounded-lg p-2 shadow-sm">
+              <img 
+                src={logo} 
+                alt="Spryzen Technologies" 
+                className="h-10 w-auto transition-transform duration-200 group-hover:scale-105"
+              />
+            </div>
           </Link>
 
           {/* Desktop Navigation */}

@@ -62,7 +62,7 @@ export function Contact() {
             className="max-w-4xl mx-auto text-center"
           >
             <h1 className="mb-6">Let's Build Something Great Together</h1>
-            <p className="text-xl">
+            <p className="text-xl text-center">
               Have a project in mind? We'd love to hear about it. Get in touch and let's create something amazing.
             </p>
           </motion.div>

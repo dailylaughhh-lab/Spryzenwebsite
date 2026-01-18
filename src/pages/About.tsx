@@ -63,7 +63,7 @@ export function About() {
             className="max-w-4xl mx-auto text-center"
           >
             <h1 className="mb-6">About Spryzen Technologies</h1>
-            <p className="text-xl mb-8">
+            <p className="text-xl mb-8 text-center">
               We are a team of passionate innovators, dedicated to building scalable digital products that make a difference. With expertise spanning mobile, web, and AI development, we transform complex challenges into elegant solutions.
             </p>
           </motion.div>
