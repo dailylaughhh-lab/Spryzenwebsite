@@ -24,9 +24,12 @@ export function CTASection() {
           <h2 className="text-white mb-6">
             Ready to Transform Your Business?
           </h2>
-          <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto leading-relaxed">
+          {/* <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto leading-relaxed">
             Let's discuss your project and explore how we can help you achieve your goals. Get a free consultation today.
-          </p>
+          </p> */}
+          <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto leading-relaxed text-center">
+  Let's discuss your project and explore how we can help you achieve your goals. Get a free consultation today.
+</p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <Link
